@@ -1,7 +1,7 @@
 import random
 
 
-answer1 = ("Absolutely!")
+answer1 = ("Absolutely!!!!")
 answer2 = ("No way Jose!") 
 answer3 = ("Go on then, Mate!")
 print("Welcome to the Magic 8 Ball-game, use it to answer your questions.")
