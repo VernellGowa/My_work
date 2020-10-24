@@ -1,0 +1,5 @@
+sentence = input("Enter a sentence and you can find out how many certain letters there are within it. ")
+letter = input("Enter the letter you would like to find in the previous sentence? ")
+sit = sentence.split(letter)
+sit_count = len(sit)
+print(sit_count-1)
